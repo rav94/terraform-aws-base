@@ -1,2 +1,2 @@
-# terraform-base
-Terraform Base for Personal Projects
+# terraform-aws-base
+Terraform Base for AWS based Personal Projects
