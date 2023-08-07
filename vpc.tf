@@ -1,7 +1,7 @@
 resource "aws_eip" "nat-eip" {
   count = 1
 
-  vpc = true
+  domain = "vpc"
 }
 
 module "main-vpc" {
